@@ -6,4 +6,4 @@
 
 ## История
 
-1. [История](history/2025-10-14-firstRussianRevolutionAndWW1.md)
+1. [I русская революция и начало Первой Мировой войны](history/2025-10-14-firstRussianRevolutionAndWW1.md)
