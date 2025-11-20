@@ -3,6 +3,7 @@
 ## Обществознание
 
 1. [Познание](socialStudies/2025-10-10-cognition.md)
+2. [Мировоззрение](socialStudies/2025-11-21-worldview.md)
 
 ## История
 
