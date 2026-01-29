@@ -5,6 +5,7 @@
 1. [Познание](socialStudies/2025-10-10-cognition.md)
 2. [Мировоззрение](socialStudies/2025-11-21-worldview.md)
 3. [Религия](socialStudies/2025-12-12-religion.md)
+4. [Мировые религии](socialStudies/2026-01-30-internationalReligions.md)
 
 ## История
 
