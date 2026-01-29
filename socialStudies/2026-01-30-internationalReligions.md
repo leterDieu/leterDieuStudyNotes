@@ -89,13 +89,27 @@
 
 > мб пикчи будут попозже
 
-- Троица
-- Агнец
-- Добрый пастырь
-- Рыбаки (ловцы душ)
-- Святой дух (голубь)
-- Ихтис
-- Хризма
+#### Троица
+![Троица](./static/2026-01-30-internationalReligions/troica-1.jpg)
+![Троица](./static/2026-01-30-internationalReligions/troica-2.jpg)
+
+#### Агнец
+![Агнец](./static/2026-01-30-internationalReligions/agnec.jpg)
+
+#### Добрый пастырь
+![Добрый пастырь](./static/2026-01-30-internationalReligions/past.jpg)
+
+#### Рыбаки (ловцы душ)
+![Рыбаки](./static/2026-01-30-internationalReligions/fishermen.jpeg)
+
+#### Святой дух (голубь)
+![Святой дух](./static/2026-01-30-internationalReligions/spirit.jpg)
+
+#### Ихтис (рыба)
+![Ихтис](./static/2026-01-30-internationalReligions/Ichthys.png)
+
+#### Хризма (ΧΡΙΣΤΌΣ, начало и конец)
+![Хризма](./static/2026-01-30-internationalReligions/Crismon-symbol.png)
 
 ### Догматы
 
